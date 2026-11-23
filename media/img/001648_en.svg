@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460"><defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="context-stroke"/></marker></defs><rect width="900" height="460" fill="#fff"/>
+<text x="34" y="35" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="bold" text-anchor="start">Minimax and alpha-beta pruning</text>
+<text x="34" y="64" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">MAX evaluates the worst opposing move in each case.</text>
+<line x1="34" y1="82" x2="866" y2="82" stroke="#cfd4da" stroke-width="1"/>
+<line x1="423.71" y1="149.46" x2="280.67" y2="228.13" stroke="#2465a0" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="476.29" y1="149.46" x2="619.33" y2="228.13" stroke="#66727e" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="227.89" y1="265.27" x2="155.8" y2="331.35" stroke="#66727e" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="270.18" y1="267.2" x2="326.46" y2="329.1" stroke="#66727e" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="629.82" y1="267.2" x2="573.54" y2="329.1" stroke="#66727e" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="668" y1="269" x2="750" y2="333" stroke="#66727e" stroke-width="2" stroke-dasharray="8 5"/>
+<line x1="709" y1="295" x2="728" y2="280" stroke="#b45d26" stroke-width="3"/>
+<line x1="710" y1="280" x2="728" y2="295" stroke="#b45d26" stroke-width="3"/>
+<circle cx="450" cy="135" r="28" fill="#e7f0f8" stroke="#2465a0" stroke-width="2.5"/>
+<text x="450" y="142" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">6</text>
+<circle cx="250" cy="245" r="28" fill="#e7f0f8" stroke="#2465a0" stroke-width="2.5"/>
+<text x="250" y="252" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">6</text>
+<circle cx="650" cy="245" r="28" fill="white" stroke="#2465a0" stroke-width="2.5"/>
+<text x="650" y="252" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">≤4</text>
+<circle cx="130" cy="355" r="24" fill="white" stroke="#66727e" stroke-width="2.5"/>
+<text x="130" y="362" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">6</text>
+<circle cx="350" cy="355" r="24" fill="white" stroke="#66727e" stroke-width="2.5"/>
+<text x="350" y="362" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">8</text>
+<circle cx="550" cy="355" r="24" fill="white" stroke="#66727e" stroke-width="2.5"/>
+<text x="550" y="362" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">4</text>
+<circle cx="770" cy="355" r="24" fill="#f1f3f5" stroke="#66727e" stroke-width="2.5"/>
+<text x="770" y="362" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">11</text>
+<text x="395" y="132" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="end">MAX</text>
+<text x="195" y="244" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="end">MIN</text>
+<text x="595" y="244" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="end">MIN</text>
+<text x="450" y="430" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">α = 6, β = 4  ⇒  no need to examine the last leaf.</text>
+</svg>

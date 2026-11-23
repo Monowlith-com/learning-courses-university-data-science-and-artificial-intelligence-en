@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460"><defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="context-stroke"/></marker></defs><rect width="900" height="460" fill="#fff"/>
+<text x="34" y="35" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="bold" text-anchor="start">Arc consistency with two time slots</text>
+<text x="34" y="64" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Inequality constraints propagate restrictions between variables.</text>
+<line x1="34" y1="82" x2="866" y2="82" stroke="#cfd4da" stroke-width="1"/>
+<rect x="113" y="135" width="124" height="62" rx="6" fill="#e7f0f8" stroke="#2465a0" stroke-width="1.5"/>
+<text x="175.0" y="173.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">A</text>
+<rect x="388" y="135" width="124" height="62" rx="6" fill="#e7f0f8" stroke="#2465a0" stroke-width="1.5"/>
+<text x="450.0" y="173.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">B</text>
+<rect x="663" y="135" width="124" height="62" rx="6" fill="#e7f0f8" stroke="#2465a0" stroke-width="1.5"/>
+<text x="725.0" y="173.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">C</text>
+<line x1="237" y1="166" x2="388" y2="166" stroke="#66727e" stroke-width="2"/>
+<line x1="512" y1="166" x2="663" y2="166" stroke="#66727e" stroke-width="2"/>
+<text x="312" y="151" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" text-anchor="middle">≠</text>
+<text x="588" y="151" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" text-anchor="middle">≠</text>
+<text x="175" y="238" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" text-anchor="middle">{1}</text>
+<line x1="175" y1="257" x2="175" y2="291" stroke="#66727e" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="100" y="306" width="150" height="55" rx="6" fill="#e7f0f8" stroke="#26765b" stroke-width="1.5"/>
+<text x="175.0" y="340.5" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">{1}</text>
+<text x="450" y="238" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" text-anchor="middle">{1, 2}</text>
+<line x1="450" y1="257" x2="450" y2="291" stroke="#66727e" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="375" y="306" width="150" height="55" rx="6" fill="#e7f0f8" stroke="#26765b" stroke-width="1.5"/>
+<text x="450.0" y="340.5" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">{2}</text>
+<text x="725" y="238" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="normal" text-anchor="middle">{1, 2}</text>
+<line x1="725" y1="257" x2="725" y2="291" stroke="#66727e" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="650" y="306" width="150" height="55" rx="6" fill="#e7f0f8" stroke="#26765b" stroke-width="1.5"/>
+<text x="725.0" y="340.5" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">{1}</text>
+<text x="450" y="406" fill="#26765b" font-family="DejaVu Sans, sans-serif" font-size="24" font-weight="bold" text-anchor="middle">A = 1  ⇒  B = 2  ⇒  C = 1</text>
+</svg>

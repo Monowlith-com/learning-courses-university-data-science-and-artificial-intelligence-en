@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460"><rect width="900" height="460" fill="#fff"/>
+<text x="34" y="35" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="bold" text-anchor="start">Forward values and backward gradients</text>
+<text x="34" y="64" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Scalar network: x = 2, w = 1, v = 2, target y = 5.</text>
+<line x1="34" y1="82" x2="866" y2="82" stroke="#cfd4da" stroke-width="1"/>
+<rect x="33" y="171" width="134" height="66" fill="#f5f6f7" stroke="#2465a0" stroke-width="1"/>
+<text x="100" y="211" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">x = 2</text>
+<rect x="208" y="171" width="134" height="66" fill="#e7f0f8" stroke="#2465a0" stroke-width="1"/>
+<text x="275" y="211" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">a = 2</text>
+<rect x="383" y="171" width="134" height="66" fill="#e7f0f8" stroke="#2465a0" stroke-width="1"/>
+<text x="450" y="211" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">h = 2</text>
+<rect x="558" y="171" width="134" height="66" fill="#e7f0f8" stroke="#2465a0" stroke-width="1"/>
+<text x="625" y="211" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">o = 4</text>
+<rect x="733" y="171" width="134" height="66" fill="#e7f0f8" stroke="#2465a0" stroke-width="1"/>
+<text x="800" y="211" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">L = 0.5</text>
+<line x1="168" y1="204" x2="206" y2="204" stroke="#2465a0" stroke-width="2"/>
+<path d="M 206 204 L 196.99552897647322 208.3496553411123 L 196.99552897647322 199.6503446588877 Z" fill="#2465a0"/>
+<text x="187.5" y="157" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">× w</text>
+<line x1="343" y1="204" x2="381" y2="204" stroke="#2465a0" stroke-width="2"/>
+<path d="M 381 204 L 371.9955289764732 208.3496553411123 L 371.9955289764732 199.6503446588877 Z" fill="#2465a0"/>
+<text x="362.5" y="157" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">ReLU</text>
+<line x1="518" y1="204" x2="556" y2="204" stroke="#2465a0" stroke-width="2"/>
+<path d="M 556 204 L 546.9955289764732 208.3496553411123 L 546.9955289764732 199.6503446588877 Z" fill="#2465a0"/>
+<text x="537.5" y="157" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">× v</text>
+<line x1="693" y1="204" x2="731" y2="204" stroke="#2465a0" stroke-width="2"/>
+<path d="M 731 204 L 721.9955289764732 208.3496553411123 L 721.9955289764732 199.6503446588877 Z" fill="#2465a0"/>
+<text x="712.5" y="157" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">½(o−y)²</text>
+<text x="450" y="120" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">Forward computation</text>
+<text x="275" y="289" fill="#b45d26" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="normal" text-anchor="middle">∂L/∂a = −2</text>
+<text x="450" y="289" fill="#b45d26" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="normal" text-anchor="middle">∂L/∂h = −2</text>
+<text x="625" y="289" fill="#b45d26" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="normal" text-anchor="middle">∂L/∂o = −1</text>
+<text x="800" y="289" fill="#b45d26" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="normal" text-anchor="middle">∂L/∂L = 1</text>
+<line x1="438" y1="310" x2="287" y2="310" stroke="#b45d26" stroke-width="2"/>
+<path d="M 287 310 L 296.0044710235268 305.6503446588877 L 296.0044710235268 314.3496553411123 Z" fill="#b45d26"/>
+<line x1="613" y1="310" x2="462" y2="310" stroke="#b45d26" stroke-width="2"/>
+<path d="M 462 310 L 471.0044710235268 305.6503446588877 L 471.0044710235268 314.3496553411123 Z" fill="#b45d26"/>
+<line x1="788" y1="310" x2="637" y2="310" stroke="#b45d26" stroke-width="2"/>
+<path d="M 637 310 L 646.0044710235268 305.6503446588877 L 646.0044710235268 314.3496553411123 Z" fill="#b45d26"/>
+<text x="450" y="340" fill="#b45d26" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">Backward computation</text>
+<rect x="180" y="364" width="540" height="58" fill="#f5f6f7" stroke="#dce2e7" stroke-width="1"/>
+<text x="450" y="400" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">Parameter gradients: ∂L/∂w = −4     ∂L/∂v = −2</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460"><rect width="900" height="460" fill="#fff"/>
+<text x="34" y="35" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="bold" text-anchor="start">Early stopping based on validation loss</text>
+<text x="34" y="64" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Illustrative values; best epoch 4, stop signal after epoch 6.</text>
+<line x1="34" y1="82" x2="866" y2="82" stroke="#cfd4da" stroke-width="1"/>
+<line x1="120" y1="390" x2="792" y2="390" stroke="#dce2e7" stroke-width="1"/>
+<text x="100" y="395" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.0</text>
+<line x1="120" y1="333.0" x2="792" y2="333.0" stroke="#dce2e7" stroke-width="1"/>
+<text x="100" y="338.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.2</text>
+<line x1="120" y1="276.0" x2="792" y2="276.0" stroke="#dce2e7" stroke-width="1"/>
+<text x="100" y="281.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.4</text>
+<line x1="120" y1="219.0" x2="792" y2="219.0" stroke="#dce2e7" stroke-width="1"/>
+<text x="100" y="224.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.6</text>
+<line x1="120" y1="162.0" x2="792" y2="162.0" stroke="#dce2e7" stroke-width="1"/>
+<text x="100" y="167.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.8</text>
+<line x1="120" y1="105.0" x2="792" y2="105.0" stroke="#dce2e7" stroke-width="1"/>
+<text x="100" y="110.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">1.0</text>
+<text x="120" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">1</text>
+<text x="232" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">2</text>
+<text x="344" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">3</text>
+<text x="456" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">4</text>
+<text x="568" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">5</text>
+<text x="680" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">6</text>
+<text x="792" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">7</text>
+<line x1="120" y1="390" x2="792" y2="390" stroke="#263443" stroke-width="2"/>
+<line x1="120" y1="105" x2="120" y2="390" stroke="#263443" stroke-width="2"/>
+<line x1="456" y1="105" x2="456" y2="390" stroke="#66727e" stroke-width="1" stroke-dasharray="5 5"/>
+<line x1="680" y1="105" x2="680" y2="390" stroke="#66727e" stroke-width="1" stroke-dasharray="5 5"/>
+<polyline points="120.00,150.60 232.00,241.80 344.00,278.85 456.00,301.65 568.00,318.75 680.00,330.15" fill="none" stroke="#2465a0" stroke-width="3"/>
+<line x1="680" y1="330.15" x2="792" y2="338.7" stroke="#2465a0" stroke-width="3" stroke-dasharray="7 5"/>
+<circle cx="120" cy="150.60000000000002" r="5" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="232" cy="241.79999999999998" r="5" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="344" cy="278.85" r="5" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="456" cy="301.65" r="5" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="568" cy="318.75" r="5" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="680" cy="330.15" r="5" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="792" cy="338.7" r="5" fill="white" stroke="#2465a0" stroke-width="2"/>
+<polyline points="120.00,136.35 232.00,227.55 344.00,270.30 456.00,293.10 568.00,287.40 680.00,276.00" fill="none" stroke="#b45d26" stroke-width="3"/>
+<line x1="680" y1="276.0" x2="792" y2="258.9" stroke="#b45d26" stroke-width="3" stroke-dasharray="7 5"/>
+<circle cx="120" cy="136.35" r="5" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="232" cy="227.55" r="5" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="344" cy="270.3" r="5" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="456" cy="293.1" r="5" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="568" cy="287.4" r="5" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="680" cy="276.0" r="5" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="792" cy="258.9" r="5" fill="white" stroke="#b45d26" stroke-width="2"/>
+<text x="450" y="124" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">Best</text>
+<text x="680" y="124" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">Stop</text>
+<text x="450" y="447" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">Epoch</text>
+<line x1="160" y1="99" x2="190" y2="99" stroke="#2465a0" stroke-width="3"/>
+<text x="200" y="105" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Training</text>
+<line x1="320" y1="99" x2="350" y2="99" stroke="#b45d26" stroke-width="3"/>
+<text x="360" y="105" fill="#b45d26" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Validation</text>
+</svg>

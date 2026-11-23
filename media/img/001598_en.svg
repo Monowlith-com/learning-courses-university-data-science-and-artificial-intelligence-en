@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-20T09:47:20.317847</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460  L 900 460  L 900 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 236.627317 307.781818  Q 306.063787 307.781818 373.264188 307.781818  " clip-path="url(#p8129527a2e)" style="fill: none; stroke: #26816a; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 365.664188 303.981818  L 373.264188 307.781818  L 365.664188 311.581818  z " clip-path="url(#p8129527a2e)" style="fill: #26816a; stroke: #26816a; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 523.502317 307.781818  Q 592.938787 307.781818 660.139188 307.781818  " clip-path="url(#p8129527a2e)" style="fill: none; stroke: #26816a; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 652.539188 303.981818  L 660.139188 307.781818  L 652.539188 311.581818  z " clip-path="url(#p8129527a2e)" style="fill: #26816a; stroke: #26816a; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 559.367271 195.545741  Q 522.066498 233.824948 486.326265 270.502682  " clip-path="url(#p8129527a2e)" style="fill: none; stroke: #c06b32; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 494.351824 267.711554  L 486.326265 270.502682  L 488.908699 262.407558  z " clip-path="url(#p8129527a2e)" style="fill: #c06b32; stroke: #c06b32; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 627.507729 195.545741  Q 664.808502 233.824948 700.548735 270.502682  " clip-path="url(#p8129527a2e)" style="fill: none; stroke: #c06b32; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 697.966301 262.407558  L 700.548735 270.502682  L 692.523176 267.711554  z " clip-path="url(#p8129527a2e)" style="fill: #c06b32; stroke: #c06b32; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 100.395 339.229091  L 225.855 339.229091  Q 231.975 339.229091 231.975 333.876364  L 231.975 281.687273  Q 231.975 276.334545 225.855 276.334545  L 100.395 276.334545  Q 94.275 276.334545 94.275 281.687273  L 94.275 333.876364  Q 94.275 339.229091 100.395 339.229091  z " clip-path="url(#p8129527a2e)" style="fill: #f3f7fa; stroke: #657685; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 387.27 339.229091  L 512.73 339.229091  Q 518.85 339.229091 518.85 333.876364  L 518.85 281.687273  Q 518.85 276.334545 512.73 276.334545  L 387.27 276.334545  Q 381.15 276.334545 381.15 281.687273  L 381.15 333.876364  Q 381.15 339.229091 387.27 339.229091  z " clip-path="url(#p8129527a2e)" style="fill: #f3f7fa; stroke: #657685; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 674.145 339.229091  L 799.605 339.229091  Q 805.725 339.229091 805.725 333.876364  L 805.725 281.687273  Q 805.725 276.334545 799.605 276.334545  L 674.145 276.334545  Q 668.025 276.334545 668.025 281.687273  L 668.025 333.876364  Q 668.025 339.229091 674.145 339.229091  z " clip-path="url(#p8129527a2e)" style="fill: #f3f7fa; stroke: #657685; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 530.7075 192.029091  L 656.1675 192.029091  Q 662.2875 192.029091 662.2875 186.676364  L 662.2875 134.487273  Q 662.2875 129.134545 656.1675 129.134545  L 530.7075 129.134545  Q 524.5875 129.134545 524.5875 134.487273  L 524.5875 186.676364  Q 524.5875 192.029091 530.7075 192.029091  z " clip-path="url(#p8129527a2e)" style="fill: #f3f7fa; stroke: #657685; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #203341" transform="translate(159.015 304.374381)">Z</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #203341" transform="translate(132.932813 317.811756)">Voucher</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #203341" transform="translate(445.895625 304.374381)">A</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #203341" transform="translate(419.511562 317.811756)">Participation</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #203341" transform="translate(733.210312 304.374381)">Y</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #203341" transform="translate(705.859687 317.811756)">Downtime</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #203341" transform="translate(589.04625 157.174381)">U</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #203341" transform="translate(563.385 170.611756)">Confounder</text>
+   </g>
+  </g>
+  <g id="line2d_1">
+   <path d="M 49.5 85.56  L 850.5 85.56  " style="fill: none; stroke: #d2d8dd; stroke-linecap: square"/>
+  </g>
+  <g id="text_5">
+   <text style="font-weight: 700; font-size: 24px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #203341" x="49.5" y="45.71375" transform="rotate(-0 49.5 45.71375)">Instrumental variable and unobserved confounding</text>
+  </g>
+  <g id="text_6">
+   <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #657685" x="49.5" y="74.737969" transform="rotate(-0 49.5 74.737969)">A voucher changes participation, not the outcome directly</text>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #657685" x="450" y="434.7" transform="rotate(-0 450 434.7)">No direct path from Z to Y; Z is exogenous (model assumption).</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8129527a2e">
+   <rect x="67.5" y="110.4" width="765" height="294.4"/>
+  </clipPath>
+ </defs>
+</svg>

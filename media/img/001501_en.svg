@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="460" viewBox="0 0 648 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>Randomised A/B test</title>
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Randomised A/B test</dc:title>
+    <dc:description>Random allocation of 800 people to two groups. A: 160 of 400 succeed; B: 188 of 400; difference 7 percentage points.</dc:description>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 331.2 
+L 648 331.2 
+L 648 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 411.0912 146.3904 
+L 482.94144 146.3904 
+L 482.94144 116.5824 
+L 411.0912 116.5824 
+z
+" clip-path="url(#p3bf2f5e36c)" style="fill: #2570a1"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 482.94144 146.3904 
+L 590.7168 146.3904 
+L 590.7168 116.5824 
+L 482.94144 116.5824 
+z
+" clip-path="url(#p3bf2f5e36c)" style="fill: #e5e7eb"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 411.0912 231.84 
+L 495.515232 231.84 
+L 495.515232 202.032 
+L 411.0912 202.032 
+z
+" clip-path="url(#p3bf2f5e36c)" style="fill: #c67926"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 495.515232 231.84 
+L 590.7168 231.84 
+L 590.7168 202.032 
+L 495.515232 202.032 
+z
+" clip-path="url(#p3bf2f5e36c)" style="fill: #e5e7eb"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 184.248398 173.284157 
+Q 223.300519 152.848947 260.866732 133.191283 
+" style="fill: none; stroke: #64748b; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 255.94822 133.282042 
+L 260.866732 133.191283 
+L 257.988232 137.180548 
+" style="fill: none; stroke: #64748b; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <g id="patch_7">
+     <path d="M 269.568 141.209369 
+L 362.768937 141.209369 
+Q 367.168937 141.209369 367.168937 136.809369 
+L 367.168937 126.163431 
+Q 367.168937 121.763431 362.768937 121.763431 
+L 269.568 121.763431 
+Q 265.168 121.763431 265.168 126.163431 
+L 265.168 136.809369 
+Q 265.168 141.209369 269.568 141.209369 
+z
+" style="fill: #f1f5f9; stroke: #2570a1; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1d2939" x="269.568" y="134.521713" transform="rotate(-0 269.568 134.521713)">A · 400 people</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 184.248398 175.138243 
+Q 223.300519 195.573453 260.866732 215.231117 
+" style="fill: none; stroke: #64748b; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 257.988232 211.241852 
+L 260.866732 215.231117 
+L 255.94822 215.140358 
+" style="fill: none; stroke: #64748b; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <g id="patch_9">
+     <path d="M 269.568 226.658969 
+L 362.791281 226.658969 
+Q 367.191281 226.658969 367.191281 222.258969 
+L 367.191281 211.613031 
+Q 367.191281 207.213031 362.791281 207.213031 
+L 269.568 207.213031 
+Q 265.168 207.213031 265.168 211.613031 
+L 265.168 222.258969 
+Q 265.168 226.658969 269.568 226.658969 
+z
+" style="fill: #f1f5f9; stroke: #c67926; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1d2939" x="269.568" y="219.971312" transform="rotate(-0 269.568 219.971312)">B · 400 people</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_10">
+     <path d="M 73.246056 192.292966 
+L 161.070744 192.292966 
+Q 167.670744 192.292966 167.670744 185.692966 
+L 167.670744 162.729434 
+Q 167.670744 156.129434 161.070744 156.129434 
+L 73.246056 156.129434 
+Q 66.646056 156.129434 66.646056 162.729434 
+L 66.646056 185.692966 
+Q 66.646056 192.292966 73.246056 192.292966 
+z
+" style="fill: #ffffff; stroke: #64748b; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1d2939" transform="translate(79.564181 171.087716)">800 people</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #1d2939" transform="translate(73.246056 183.405309)">Random split</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d2939" x="500.904" y="162.697481" transform="rotate(-0 500.904 162.697481)">160/400 = 40 %</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d2939" x="500.904" y="248.147081" transform="rotate(-0 500.904 248.147081)">188/400 = 47 %</text>
+   </g>
+  </g>
+  <g id="line2d_1">
+   <path d="M 38.88 54.648 
+L 609.12 54.648 
+" style="fill: none; stroke: #d1d5db; stroke-linecap: square"/>
+  </g>
+  <g id="text_6">
+   <text style="font-weight: 700; font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1d2939" x="38.88" y="23.184" transform="rotate(-0 38.88 23.184)">Randomised A/B test</text>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #64748b" x="38.88" y="43.056" transform="rotate(-0 38.88 43.056)">800 people, equal allocation probability, binary search outcome.</text>
+  </g>
+  <g id="text_8">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d2939" x="343.44" y="306.36" transform="rotate(-0 343.44 306.36)">B minus A: +7 percentage points (relative +17.5%)</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3bf2f5e36c">
+   <rect x="51.84" y="72.864" width="544.32" height="198.72"/>
+  </clipPath>
+ </defs>
+</svg>

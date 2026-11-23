@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460"><rect width="900" height="460" fill="#fff"/>
+<text x="34" y="35" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="bold" text-anchor="start">Learning curves of the NumPy network</text>
+<text x="34" y="64" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Measured NumPy training run; independent synthetic test: 97% correct.</text>
+<line x1="34" y1="82" x2="866" y2="82" stroke="#cfd4da" stroke-width="1"/>
+<line x1="115" y1="390.0" x2="805" y2="390.0" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="395.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.0</text>
+<line x1="115" y1="359.44444444444446" x2="805" y2="359.44444444444446" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="364.44444444444446" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.1</text>
+<line x1="115" y1="328.8888888888889" x2="805" y2="328.8888888888889" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="333.8888888888889" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.2</text>
+<line x1="115" y1="298.3333333333333" x2="805" y2="298.3333333333333" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="303.3333333333333" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.3</text>
+<line x1="115" y1="267.77777777777777" x2="805" y2="267.77777777777777" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="272.77777777777777" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.4</text>
+<line x1="115" y1="237.22222222222223" x2="805" y2="237.22222222222223" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="242.22222222222223" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.5</text>
+<line x1="115" y1="206.66666666666666" x2="805" y2="206.66666666666666" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="211.66666666666666" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.6</text>
+<line x1="115" y1="176.11111111111111" x2="805" y2="176.11111111111111" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="181.11111111111111" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.7</text>
+<line x1="115" y1="145.55555555555554" x2="805" y2="145.55555555555554" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="150.55555555555554" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.8</text>
+<line x1="115" y1="115.0" x2="805" y2="115.0" stroke="#dce2e7" stroke-width="1"/>
+<text x="95" y="120.0" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0.9</text>
+<text x="115.0" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">0</text>
+<text x="230.0" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">300</text>
+<text x="345.0" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">600</text>
+<text x="460.0" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">900</text>
+<text x="575.0" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">1200</text>
+<text x="690.0" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">1500</text>
+<text x="805.0" y="418" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="normal" text-anchor="middle">1800</text>
+<line x1="115" y1="390" x2="805" y2="390" stroke="#263443" stroke-width="2"/>
+<line x1="115" y1="115" x2="115" y2="390" stroke="#263443" stroke-width="2"/>
+<polyline points="115.00,161.82 191.67,218.74 268.33,301.75 345.00,331.42 421.67,343.87 498.33,350.62 575.00,354.90 651.67,357.90 728.33,360.14 805.00,361.90" fill="none" stroke="#2465a0" stroke-width="3"/>
+<circle cx="115.0" cy="161.8245060393658" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="191.66666666666666" cy="218.7353729308067" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="268.3333333333333" cy="301.7532105929223" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="345.0" cy="331.4184057674932" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="421.66666666666663" cy="343.86500547249625" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="498.33333333333337" cy="350.61755992282485" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="575.0" cy="354.9003395740831" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="651.6666666666666" cy="357.89927076956445" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="728.3333333333333" cy="360.1416378530503" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<circle cx="805.0" cy="361.89667758587353" r="4" fill="white" stroke="#2465a0" stroke-width="2"/>
+<polyline points="115.00,148.60 191.67,214.78 268.33,295.62 345.00,324.12 421.67,336.28 498.33,343.09 575.00,347.54 651.67,350.72 728.33,353.15 805.00,355.07" fill="none" stroke="#b45d26" stroke-width="3"/>
+<circle cx="115.0" cy="148.6007607640433" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="191.66666666666666" cy="214.7756415740345" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="268.3333333333333" cy="295.6200960906093" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="345.0" cy="324.11873787387935" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="421.66666666666663" cy="336.27584558140444" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="498.33333333333337" cy="343.0929095882576" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="575.0" cy="347.53956616499" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="651.6666666666666" cy="350.7231610163323" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="728.3333333333333" cy="353.14666721560445" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<circle cx="805.0" cy="355.07167291968165" r="4" fill="white" stroke="#b45d26" stroke-width="2"/>
+<line x1="490" y1="107" x2="520" y2="107" stroke="#2465a0" stroke-width="3"/>
+<text x="530" y="113" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Training</text>
+<line x1="650" y1="107" x2="680" y2="107" stroke="#b45d26" stroke-width="3"/>
+<text x="690" y="113" fill="#b45d26" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Validation</text>
+<text x="450" y="446" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">Full-batch updates</text>
+<text x="450" y="145" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">Binary cross-entropy</text>
+</svg>

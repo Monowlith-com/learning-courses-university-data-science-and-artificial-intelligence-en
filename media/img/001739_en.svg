@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460"><defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="context-stroke"/></marker></defs><rect width="900" height="460" fill="#fff"/>
+<text x="34" y="35" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="bold" text-anchor="start">State graph and path costs</text>
+<text x="34" y="64" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Directed transitions of a transport cart · costs in minutes</text>
+<line x1="34" y1="82" x2="866" y2="82" stroke="#cfd4da" stroke-width="1"/>
+<line x1="152.72" y1="231.47" x2="417.5" y2="150.0" stroke="#2465a0" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="287.5" y="175.0" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">2</text>
+<line x1="152.72" y1="248.53" x2="417.5" y2="330.0" stroke="#66727e" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="287.5" y="314.0" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">1</text>
+<line x1="450.0" y1="311.0" x2="450.0" y2="174.0" stroke="#66727e" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="475.0" y="240.0" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">1</text>
+<line x1="477.72" y1="148.53" x2="742.5" y2="230.0" stroke="#2465a0" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="612.5" y="175.0" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">3</text>
+<line x1="477.72" y1="331.47" x2="742.5" y2="250.0" stroke="#66727e" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="612.5" y="314.0" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">7</text>
+<circle cx="125" cy="240" r="27" fill="#e7f0f8" stroke="#2465a0" stroke-width="2.5"/>
+<text x="125" y="247" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">S</text>
+<circle cx="450" cy="140" r="27" fill="white" stroke="#2465a0" stroke-width="2.5"/>
+<text x="450" y="147" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">A</text>
+<circle cx="450" cy="340" r="27" fill="white" stroke="#2465a0" stroke-width="2.5"/>
+<text x="450" y="347" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">B</text>
+<circle cx="775" cy="240" r="27" fill="#e7f0f8" stroke="#2465a0" stroke-width="2.5"/>
+<text x="775" y="247" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="bold" text-anchor="middle">Z</text>
+<text x="450" y="425" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="normal" text-anchor="middle">S → A → Z: 5 min     |     S → B → A → Z: 5 min     |     S → B → Z: 8 min</text>
+</svg>

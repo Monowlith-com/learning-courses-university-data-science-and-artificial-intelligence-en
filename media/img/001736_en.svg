@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460"><defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="context-stroke"/></marker></defs><rect width="900" height="460" fill="#fff"/>
+<text x="34" y="35" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="bold" text-anchor="start">From explicit fact to inference</text>
+<text x="34" y="64" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">A class hierarchy enables new type assignments.</text>
+<line x1="34" y1="82" x2="866" y2="82" stroke="#cfd4da" stroke-width="1"/>
+<rect x="71" y="130" width="208" height="55" rx="6" fill="#e7f0f8" stroke="#2465a0" stroke-width="1.5"/>
+<text x="175.0" y="164.5" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">Sensor</text>
+<rect x="346" y="130" width="208" height="55" rx="6" fill="#e7f0f8" stroke="#2465a0" stroke-width="1.5"/>
+<text x="450.0" y="164.5" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">Instrument</text>
+<rect x="621" y="130" width="208" height="55" rx="6" fill="#e7f0f8" stroke="#2465a0" stroke-width="1.5"/>
+<text x="725.0" y="164.5" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">Inventory item</text>
+<line x1="279" y1="158" x2="345" y2="158" stroke="#2465a0" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="312" y="143" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" text-anchor="middle">⊆</text>
+<line x1="554" y1="158" x2="620" y2="158" stroke="#2465a0" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="587" y="143" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" text-anchor="middle">⊆</text>
+<rect x="110" y="306" width="130" height="55" rx="6" fill="white" stroke="#2465a0" stroke-width="1.5"/>
+<text x="175.0" y="340.5" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">s7</text>
+<line x1="175" y1="306" x2="175" y2="187" stroke="#2465a0" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="160" y="260" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="end">explicit</text>
+<line x1="240" y1="330" x2="450" y2="187" stroke="#26765b" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="8 5"/>
+<line x1="240" y1="347" x2="725" y2="187" stroke="#26765b" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="8 5"/>
+<text x="495" y="327" fill="#26765b" font-family="DejaVu Sans, sans-serif" font-size="19" font-weight="normal" text-anchor="middle">inferred types</text>
+<text x="450" y="419" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">The rule chain generates no new measurement data.</text>
+</svg>

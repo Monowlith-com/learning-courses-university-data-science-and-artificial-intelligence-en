@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="460" viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460 
+L 900 460 
+L 900 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 66.672 237.4014 
+L 168.048 237.4014 
+Q 178.344 237.4014 178.344 233.3948 
+L 178.344 187.7812 
+Q 178.344 183.7746 168.048 183.7746 
+L 66.672 183.7746 
+Q 56.376 183.7746 56.376 187.7812 
+L 56.376 233.3948 
+Q 56.376 237.4014 66.672 237.4014 
+z
+" clip-path="url(#p285e57b522)" style="fill: #ffffff; stroke: #657486; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 209.232 245.1064 
+L 358.128 245.1064 
+Q 368.424 245.1064 368.424 241.0998 
+L 368.424 180.0762 
+Q 368.424 176.0696 358.128 176.0696 
+L 209.232 176.0696 
+Q 198.936 176.0696 198.936 180.0762 
+L 198.936 241.0998 
+Q 198.936 245.1064 209.232 245.1064 
+z
+" clip-path="url(#p285e57b522)" style="fill: #ffffff; stroke: #2166a5; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 407.232 245.1064 
+L 556.128 245.1064 
+Q 566.424 245.1064 566.424 241.0998 
+L 566.424 180.0762 
+Q 566.424 176.0696 556.128 176.0696 
+L 407.232 176.0696 
+Q 396.936 176.0696 396.936 180.0762 
+L 396.936 241.0998 
+Q 396.936 245.1064 407.232 245.1064 
+z
+" clip-path="url(#p285e57b522)" style="fill: #ffffff; stroke: #25836b; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 601.272 245.1064 
+L 758.088 245.1064 
+Q 768.384 245.1064 768.384 241.0998 
+L 768.384 180.0762 
+Q 768.384 176.0696 758.088 176.0696 
+L 601.272 176.0696 
+Q 590.976 176.0696 590.976 180.0762 
+L 590.976 241.0998 
+Q 590.976 245.1064 601.272 245.1064 
+z
+" clip-path="url(#p285e57b522)" style="fill: #ffffff; stroke: #c26732; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 185.472 369.9274 
+L 381.888 369.9274 
+Q 392.184 369.9274 392.184 365.9208 
+L 392.184 320.3072 
+Q 392.184 316.3006 381.888 316.3006 
+L 185.472 316.3006 
+Q 175.176 316.3006 175.176 320.3072 
+L 175.176 365.9208 
+Q 175.176 369.9274 185.472 369.9274 
+z
+" clip-path="url(#p285e57b522)" style="fill: #ffffff; stroke: #2166a5; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 577.512 369.9274 
+L 781.848 369.9274 
+Q 792.144 369.9274 792.144 365.9208 
+L 792.144 320.3072 
+Q 792.144 316.3006 781.848 316.3006 
+L 577.512 316.3006 
+Q 567.216 316.3006 567.216 320.3072 
+L 567.216 365.9208 
+Q 567.216 369.9274 577.512 369.9274 
+z
+" clip-path="url(#p285e57b522)" style="fill: #ffffff; stroke: #c26732; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(91.091875 206.896609)">Input</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(99.798828 221.453766)">x = 2</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(250.911875 206.896609)">Encoder q</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(237.540156 221.453766)">μ = 1; σ = 0.5</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(441.273359 206.896609)">Sample z</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(460.333594 221.453766)">μ + σε</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(646.133906 206.896609)">Decoder p</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(653.930859 221.453766)">N(2z, 1)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(242.869141 339.422609)">KL to prior</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(256.800469 353.979766)">0.81815</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(629.037891 339.422609)">Mean log-density</text>
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; fill: #243348" transform="translate(647.353672 353.979766)">−1.41894</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 178.758369 210.588 
+Q 188.639031 210.588 196.507233 210.588 
+" style="fill: none; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 190.507233 207.588 
+L 196.507233 210.588 
+L 190.507233 213.588 
+z
+" style="fill: #657486; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 368.839336 210.588 
+Q 382.677873 210.588 394.503949 210.588 
+" style="fill: none; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 388.503949 207.588 
+L 394.503949 210.588 
+L 388.503949 213.588 
+z
+" style="fill: #657486; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 566.839819 210.588 
+Q 578.699925 210.588 588.547569 210.588 
+" style="fill: none; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 582.547569 207.588 
+L 588.547569 210.588 
+L 582.547569 213.588 
+z
+" style="fill: #657486; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 283.68 246.493187 
+Q 283.68 279.936079 283.68 311.366509 
+" style="fill: none; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 286.68 305.366509 
+L 283.68 311.366509 
+L 280.68 305.366509 
+z
+" style="fill: #657486; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 679.68 246.493187 
+Q 679.68 279.936079 679.68 311.366509 
+" style="fill: none; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 682.68 305.366509 
+L 679.68 311.366509 
+L 676.68 305.366509 
+z
+" style="fill: #657486; stroke: #657486; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #243348" x="481.68" y="389.344" transform="rotate(-0 481.68 389.344)">ELBO = −1.41894 − 0.81815 = −2.23709</text>
+   </g>
+  </g>
+  <g id="line2d_1">
+   <path d="M 54 89.7 
+L 846 89.7 
+" style="fill: none; stroke: #d0d5dc; stroke-linecap: square"/>
+  </g>
+  <g id="text_8">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243348" x="54" y="45.076406" transform="rotate(-0 54 45.076406)">Variational autoencoder: two loss terms</text>
+  </g>
+  <g id="text_9">
+   <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243348" x="54" y="71.598047" transform="rotate(-0 54 71.598047)">Encoder distribution, latent sample and probabilistic decoder</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p285e57b522">
+   <rect x="54" y="105.8" width="792" height="308.2"/>
+  </clipPath>
+ </defs>
+</svg>

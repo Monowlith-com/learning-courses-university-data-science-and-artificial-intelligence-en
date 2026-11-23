@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460"><defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0 L7 3 L0 6 Z" fill="context-stroke"/></marker></defs><rect width="900" height="460" fill="#fff"/>
+<text x="34" y="35" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="bold" text-anchor="start">Truth table for an authorisation rule</text>
+<text x="34" y="64" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Start permitted exactly when authorisation and safety contact are true.</text>
+<line x1="34" y1="82" x2="866" y2="82" stroke="#cfd4da" stroke-width="1"/>
+<text x="200" y="128" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" text-anchor="middle">Authorisation F</text>
+<text x="450" y="128" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" text-anchor="middle">Contact K</text>
+<text x="700" y="128" fill="#263443" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="bold" text-anchor="middle">Start S</text>
+<rect x="95" y="157" width="210" height="46" rx="6" fill="#f1f3f5" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="200" y="187" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">false (0)</text>
+<rect x="345" y="157" width="210" height="46" rx="6" fill="#f1f3f5" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="450" y="187" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">false (0)</text>
+<rect x="595" y="157" width="210" height="46" rx="6" fill="#f1f3f5" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="700" y="187" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">false (0)</text>
+<rect x="95" y="217" width="210" height="46" rx="6" fill="#f1f3f5" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="200" y="247" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">false (0)</text>
+<rect x="345" y="217" width="210" height="46" rx="6" fill="#e0f2e9" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="450" y="247" fill="#26765b" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">true (1)</text>
+<rect x="595" y="217" width="210" height="46" rx="6" fill="#f1f3f5" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="700" y="247" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">false (0)</text>
+<rect x="95" y="277" width="210" height="46" rx="6" fill="#e0f2e9" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="200" y="307" fill="#26765b" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">true (1)</text>
+<rect x="345" y="277" width="210" height="46" rx="6" fill="#f1f3f5" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="450" y="307" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">false (0)</text>
+<rect x="595" y="277" width="210" height="46" rx="6" fill="#f1f3f5" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="700" y="307" fill="#66727e" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">false (0)</text>
+<rect x="95" y="337" width="210" height="46" rx="6" fill="#e0f2e9" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="200" y="367" fill="#26765b" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">true (1)</text>
+<rect x="345" y="337" width="210" height="46" rx="6" fill="#e0f2e9" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="450" y="367" fill="#26765b" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">true (1)</text>
+<rect x="595" y="337" width="210" height="46" rx="6" fill="#e0f2e9" stroke="#d0d6dc" stroke-width="1.5"/>
+<text x="700" y="367" fill="#26765b" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" text-anchor="middle">true (1)</text>
+<text x="450" y="422" fill="#2465a0" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" text-anchor="middle">S ↔ (F ∧ K)</text>
+</svg>
